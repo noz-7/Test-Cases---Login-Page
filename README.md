@@ -1,2 +1,6 @@
 # Test-Cases---Login-Page
 22211525@student.ciu.edu.tr
+
+
+login:  Oguzhan
+password:  oguzhan1234
